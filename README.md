@@ -5,8 +5,7 @@ Această aplicație gestionează un depozit, folosind o bază de date relaționa
 - **Model** – reprezintă entitățile bazei de date.
 - **Business Logic (BLL)** – implementează logica aplicației.
 - **Data Access (DAO)** – gestionează interacțiunea cu baza de date.
-- **GUI** – oferă interfața utilizatorului.
--   
+- **GUI** – oferă interfața utilizatorului.  
 ## Screenshot
 ![Screenshot](img.png)
   
